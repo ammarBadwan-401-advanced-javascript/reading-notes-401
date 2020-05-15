@@ -21,7 +21,9 @@
 ## 4-Provide code snippets showing 3 different ways to export a function from a node module
 
 1- `modules.exports = functionName()`
+
 2- `modules.exports = {firstFunction() , secondFunction() }`
+
 3- `export function functionName(){return 'some written code'}`
 
 ## Terms:
