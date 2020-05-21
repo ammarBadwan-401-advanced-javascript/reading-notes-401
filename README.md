@@ -16,3 +16,4 @@
 | Read-2                       |[Classes, Inheritance, Functional Programming](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-02)
 | Read-3                       |[Data Modeling & NoSQL Databases](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-03)
 | Read-4                       |[Advanced Mongo/Mongoose](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-04)
+| Read-5                       |[Linked List](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-05)
