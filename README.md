@@ -18,3 +18,4 @@
 | Read-4                       |[Advanced Mongo/Mongoose](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-04)
 | Read-5                       |[Linked List](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-05)
 | Read-6                       |[HTTP and REST](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-06)
+| Read-7                       |[Express](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-07)
