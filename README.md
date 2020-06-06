@@ -22,3 +22,4 @@
 | Read-8                       |[Express Routing](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-08)
 | Read-9                       |[API Server](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-09)
 | Read-10                      |[Stacks and Queues](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-10)
+| Read-11                      |[Authentication](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-11)
