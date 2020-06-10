@@ -26,3 +26,4 @@
 | Read-12                      |[OAuth](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-12)
 | Read-13                      |[Bearer Authorization](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-13)
 | Read-14                      |[Access Control (ACL)](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-14)
+| Read-15                      |[Trees](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-15)
