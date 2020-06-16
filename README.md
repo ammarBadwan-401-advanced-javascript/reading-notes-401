@@ -30,3 +30,4 @@
 | Read-16                      |[Event Driven Applications](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-16)
 | Read-17                      |[TCP Servers](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-17)
 | Read-18                      |[Socket.io](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-18)
+| Read-19                      |[Message Queues](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-19)
