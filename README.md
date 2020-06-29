@@ -33,3 +33,4 @@
 | Read-19                      |[Message Queues](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-19)
 | Read-26                      |[Component Based UI](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-26)
 | Read-27                      |[React Testing and Deployment](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-27)
+| Read-28                      |[Props and State](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-28)
