@@ -36,3 +36,4 @@
 | Read-28                      |[Props and State](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-28)
 | Read-29                      |[Component Composition](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-29)
 | Read-30                      |[Hashtables](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-30)
+| Read-31                      |[Hooks API](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-31)
