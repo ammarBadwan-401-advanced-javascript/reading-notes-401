@@ -38,3 +38,4 @@
 | Read-30                      |[Hashtables](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-30)
 | Read-31                      |[Hooks API](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-31)
 | Read-32                      |[Custom Hooks](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-32)
+| Read-33                      |[Context API](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-33)
