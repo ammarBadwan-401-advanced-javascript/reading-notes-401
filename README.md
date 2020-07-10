@@ -41,3 +41,4 @@
 | Read-33                      |[Context API](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-33)
 | Read-34                      |[Login and Auth](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-34)
 | Read-35                      |[Graphs](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-35)
+| Read-36                      |[Application State with Redux](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-36)
