@@ -43,3 +43,4 @@
 | Read-35                      |[Graphs](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-35)
 | Read-36                      |[Application State with Redux](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-36)
 | Read-37                      |[Redux - Combined Reducers](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-37)
+| Read-38                      |[Asynchronous Actions](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-38)
