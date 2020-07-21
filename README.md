@@ -46,3 +46,4 @@
 | Read-38                      |[Asynchronous Actions](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-38)
 | Read-39                      |[Redux - Additional Topics](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-39)
 | Read-41                      |[React Native](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-41)
+| Read-43                      |[Gatsby, next.js, and other JS Frameworks](https://ammarBadwan-401-advanced-javascript.github.io/reading-notes-401/class-43)
